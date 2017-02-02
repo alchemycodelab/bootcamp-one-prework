@@ -2,9 +2,8 @@
 
 Now it's time to install Visual Studio Code, a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Visual Studio Code](https://code.visualstudio.com/Download) and drag the app icon into your `/Applications` folder.
+To get started, download [Visual Studio Code](https://code.visualstudio.com/Download) and run the installer.
 
-**TIP:** Remember to eject the disk image after installing the app.
 
 Once installed, launch using Spotlight Search.
 
