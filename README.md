@@ -16,7 +16,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 1. Code 101 *(optional, one full 12-hour day)* [Details](https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech)
 2. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
 3. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
-4. Download and Install Slack *(15-30 minutes)*
+4. Download and Install Ryver *(15-30 minutes)*
 5. Purchase Required textbooks *(15-30 minutes)*
 6. Brush up on Algebra *(1-2 hours)*
 7. Practice the Terminal *(2-3 hours)*
