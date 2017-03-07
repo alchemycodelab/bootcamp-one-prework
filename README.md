@@ -16,7 +16,6 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 1. Code 101 *(optional, one full 12-hour day)* [Details](https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech)
 2. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
 3. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
-4. Download and Install Ryver *(15-30 minutes)*
 5. Purchase Required textbooks *(15-30 minutes)*
 6. Brush up on Algebra *(1-2 hours)*
 7. Practice the Terminal *(2-3 hours)*
@@ -25,6 +24,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
   - HTML/CSS *(Codecademy estimates 7 hours; we suggest allowing 10 hours)*
   - JavaScript *(Codecademy estimates 10 hours; we suggest allowing 20 hours because this is the most challenging piece of the pre-work)*
 10. Complete the textbook readings for Day 1 of class *(2-3 hours)*
+4. Download and Install Ryver *(15-30 minutes)*
 
 **Total estimated time for pre-work Steps 3-10: 23.5 to 43 hours of working time (not counting breaks)**
 
