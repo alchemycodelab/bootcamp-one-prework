@@ -109,12 +109,12 @@ We get started right away on Day 1, so be sure to read the following chapters fr
 
 Plan to spend about 20-30 minutes with each chapter. Do not strive to methodically read and retain every single word, because we cover hundreds of pages of text in the first two weeks of the course. Instead, aim for an understanding of the big topics and orientation to where the details are so that you can find them when you need them. And be sure to read closely enough to come up with questions and observations based on your reading!
 
-##### 10. Download and Install Slack (do this step after your enrollment is completed) *(15-30 minutes)*
+##### 10. Download and Install Ryver (do this step after your enrollment is completed) *(15-30 minutes)*
 
-We use Slack to distribute files and collaborate before, during, and after the workshop.
+We use an app called Ryver to share resources, chat, make announcements and collaborate. 
 
-  - <a href="https://slack.com/downloads">Download Slack</a>
+You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the installable app:
 
-Look for an email from us prior to class, in order to join our Slack team.
+[Ryver Downloads](ryver.com/downloads/).
 
 Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
