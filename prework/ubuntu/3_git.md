@@ -47,4 +47,4 @@ user.name='YOUR FULL NAME'
 ```
 
 
-### [⇐ Previous](2_apt.md) | [Next ⇒](4_atom.md)
+### [⇐ Previous](2_apt.md) | [Next ⇒](4_vscode.md)
