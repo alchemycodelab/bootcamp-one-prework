@@ -2,19 +2,19 @@
 
 Now it's time to install Visual Studio Code, a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Visual Studio Code](https://code.visualstudio.com/Download) and drag the app icon into your `/Applications` folder.
+To get started, download [Visual Studio Code](https://code.visualstudio.com/Download). This will download a `.zip` file, open this file which should extract the `Visual Studio Code.app` file. Drag this app file into your `/Applications` folder.
 
-**TIP:** Remember to eject the disk image after installing the app.
+**TIP:** You can delete the `zip` file.
 
-Once installed, launch using Spotlight Search.
+Once installed, launch using Spotlight Search (`CMD + SpaceBar`).
 
-### `code` (shell command)
+#### `code` (shell command)
 
 You'll find it insanely useful to open files and directories into VS Code from the Terminal.
 
-To verify VS Code is wired up correctly, run the `code` command from your terminal.
+Run VS Code, the type `CMD + SHIFT + P` and start typing `Shell Command` and choose `Shell Command: Install code Command in Path`.
 
-If VS Code opens, you're good to go.
+To verify VS Code is wired up correctly, run the `code` command from your terminal.
 
 If VS Code does not open, please notify an instructor or TA in your class Ryver forum.
 
