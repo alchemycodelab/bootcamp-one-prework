@@ -13,18 +13,17 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 
 ### Overview of Pre-work Steps *(time to complete per item)*
 
-1. Code 101 *(optional, one full 12-hour day)* [Details](https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech)
-2. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
-3. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
-5. Purchase Required textbooks *(15-30 minutes)*
-6. Brush up on Algebra *(1-2 hours)*
-7. Practice the Terminal *(2-3 hours)*
-8. Read through a Git tutorial on Udemy *(1-2 hours)*
-9. Tutorials on Codecademy
-  - HTML/CSS *(Codecademy estimates 7 hours; we suggest allowing 10 hours)*
-  - JavaScript *(Codecademy estimates 10 hours; we suggest allowing 20 hours because this is the most challenging piece of the pre-work)*
-10. Complete the textbook readings for Day 1 of class *(2-3 hours)*
-4. Download and Install Ryver *(15-30 minutes)*
+1. Code 101 *(optional, one full 8-hour day)*
+1. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
+1. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
+1. Download and Install Ryver *(15-30 minutes)*
+1. Purchase Required textbooks *(15-30 minutes)*
+1. Brush up on Algebra *(1-2 hours)*
+1. Practice the Terminal *(2-3 hours)*
+1. Read through a Git tutorial on Udemy *(1-2 hours)*
+1. Intro to JavaScript Programming Tutorial, from Khan Academy *(estimated at 15-40 hours)*
+1. Codecademy HTML+CSS tutorial *(Codecademy estimates 10 hours)*
+1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
 **Total estimated time for pre-work Steps 3-10: 23.5 to 43 hours of working time (not counting breaks)**
 
@@ -72,9 +71,9 @@ One significant aspect of creating software is interacting directly with text fi
 
 If you aren't already, this is a great time to get used to the command line. Here are a few tutorials that can assist you:
 
-1. **Treehouse** - This is a great set of online video tutorials with practice problems/quizzes.  It is free to try (2 week trial).  
+1. **Treehouse** - This is a great set of online video tutorials with practice problems/quizzes.  It is free to try (1 week trial).  
 
-	Do the first part of Console Foundations course (just the "Getting Started With the Console" section, which takes about an hour)  [https://teamtreehouse.com/library/console-foundations] (https://teamtreehouse.com/library/console-foundations)
+	Do the first part of [Console Foundations](https://teamtreehouse.com/library/console-foundations) course (just the "Getting Started With the Console" section, which takes about an hour)
 	Feel free to explore the more advanced topics if you wish (Users and Permissions, Environment and Redirection, etc.) but those topics are beyond the scope of the Code 201 course!
 
 2. **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
@@ -89,11 +88,11 @@ There is a lot of useful information in this tutorial, but it is a lot to digest
 
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
-##### 8. Tutorials *(17-30 hours)*
+##### 8. Tutorials *(25-50 hours)*
 Complete these tutorials prior to the first day of class.
 
-   - <a href="https://www.codecademy.com/tracks/web">HTML/CSS Codecademy</a>
-   - <a href="https://www.codecademy.com/tracks/javascript">JavaScript Codecademy</a>
+   - Codecademy: <a href="https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/what-is-html?action=lesson_resume">Intro to HTML+CSS</a>
+   - Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a>
 
 ##### 9. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
@@ -113,7 +112,7 @@ Plan to spend about 20-30 minutes with each chapter. Do not strive to methodical
 
 We use an app called Ryver to share resources, chat, make announcements and collaborate. 
 
-You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the installable app:
+You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the desktop app:
 
 [Ryver Downloads](ryver.com/downloads/).
 
