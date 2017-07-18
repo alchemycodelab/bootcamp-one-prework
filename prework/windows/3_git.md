@@ -44,4 +44,4 @@ user.name='YOUR FULL NAME'
 
 You have now completed Step 3 of 9 in the Code 201 pre-work. Please follow the README link below to complete the remaining steps (4-9).
 
-### [⇐ Previous](2_atom.md) | [README ⇒](../../../../)
+### [⇐ Previous](2_vscode.md) | [README ⇒](../../../../)

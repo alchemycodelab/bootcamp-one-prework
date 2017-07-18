@@ -47,7 +47,7 @@ If you are completely new to coding, consider completing <a href="https://www.co
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
- - Be able to open Atom from the Terminal or Git Bash.
+ - Be able to open VSCode from the Terminal or Git Bash.
 
 ##### 4. Purchase the required textbooks *(15-30 minutes)*
 
