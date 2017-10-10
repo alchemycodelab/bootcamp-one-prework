@@ -1,7 +1,7 @@
 Code 201: Foundations of Software Development
 -----------------------
 
-### Pre-work
+## Pre-work
 
 There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process. In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
 
@@ -9,28 +9,30 @@ Pre-work is outlined in nine steps on this page. Note that in Step 3 there are s
 
 Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it. Expect to spend, **at a minimum**, several evenings and a weekend day or two to get everything completed. Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners. Detailed time estimates are provided in the following overview.
 
-##### NOTE: If you have taken Code 101 already, skip to #3. The guide in #3 is similar to Code 101's pre-work but contains additional steps you must complete prior to Code 201.
+**NOTE: If you have taken Code 101 already, skip to #3. The guide in #3 is similar to Code 101's pre-work but contains additional steps you must complete prior to Code 201.**
 
-### Overview of Pre-work Steps *(time to complete per item)*
+----
 
-1. Code 101 *(optional, one full 8-hour day)*
+## Overview of Pre-work Steps *(time to complete per item)*
+
+1. Code 101 *(optional)*
 1. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
-1. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
-1. Download and Install Ryver *(15-30 minutes)*
-1. Purchase Required textbooks *(15-30 minutes)*
-1. Brush up on Algebra *(1-2 hours)*
-1. Practice the Terminal *(2-3 hours)*
+1. Setup guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
+1. Download and install Ryver *(15-30 minutes)*
+1. Purchase required textbooks *(15-30 minutes)*
+1. Brush up on algebra *(1-2 hours)*
+1. Practice the terminal *(2-3 hours)*
 1. Read through a Git tutorial on Udemy *(1-2 hours)*
-1. Intro to JavaScript Programming Tutorial, from Khan Academy *(estimated at 15-40 hours)*
-1. Codecademy HTML+CSS tutorial *(Codecademy estimates 10 hours)*
+1. Khan Academy Intro to JavaScript tutorial *(15-40 hours)*
+1. Khan Academy HTML+CSS tutorial *(15-25 hours)*
 1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
-**Total estimated time for pre-work Steps 3-10: 23.5 to 43 hours of working time (not counting breaks)**
+**Total estimated time for pre-work Steps 3-11: 23.5 to 43 hours of working time (not counting breaks)**
 
-##### 1. Code 101 *(optional, one full 12-hour day)*
-If you are completely new to coding, consider completing <a href="https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
+#### 1. Code 101 *(optional)*
+If you are completely new to coding, consider completing <a href="http://www.alchemycodelab.com/courses">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
 
-##### 2. Ensure your laptop up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
+#### 2. Ensure your laptop is up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
 
   - Is virus and malware free
   - Uses the latest, stable, updated version of its operating system
@@ -38,7 +40,7 @@ If you are completely new to coding, consider completing <a href="https://www.co
   - Has plenty of free hard drive space and memory
   - Can reliably connect to wireless networks
 
-##### 3. Complete the setup guide for your computer's operating system *(multiple downloads are involved; 1-3 hours depending on your network speed)*
+#### 3. Complete the setup guide for your computer's operating system *(multiple downloads are involved; 1-3 hours depending on your network speed)*
 
   - [Mac OS X](prework/mac/1_terminal.md)
   - [Ubuntu](prework/ubuntu/1_terminal.md)
@@ -49,13 +51,24 @@ Following completion of these Pre-work assignments, you should:
  - Be able to receive a valid response when typing "git --version"
  - Be able to open VSCode from the Terminal or Git Bash.
 
-##### 4. Purchase the required textbooks *(15-30 minutes)*
+#### 4. Download and Install Ryver (do this step after your enrollment is completed) *(15-30 minutes)*
+
+We use an app called Ryver to share resources, chat, make announcements, and collaborate. 
+
+You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the desktop app:
+
+[Ryver Downloads](ryver.com/downloads/).
+
+Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
+
+
+#### 5. Purchase the required textbooks *(15-30 minutes)*
 
 If you haven't already, purchase this textbook set prior to the first day of class:
 
   - <a href="http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=">Web Design with HTML &amp; CSS; JavaScript &amp; jQuery book set</a> by Jon Duckett
 
-##### 5. Brush up on Algebra *(1-2 hours)*
+#### 6. Brush up on Algebra *(1-2 hours)*
 
 Take some time to review essential algebra. These kinds of logical and mathematical concepts will be very useful to you as you dig into writing code.
 
@@ -65,7 +78,7 @@ Here's a list of algebra topics for your review:
 
 You don't need to read through each topic, but you should have familiarity with most of them. You should have good familiarity with exponents and polynomials, and be sure to read the sections on Functions and Logarithms, as well as any others that look interesting to you.
 
-##### 6. Practice the Terminal *(1-2 hours)*
+#### 7. Practice the Terminal *(1-2 hours)*
 
 One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
 
@@ -82,19 +95,23 @@ If you aren't already, this is a great time to get used to the command line. Her
 
 Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
 
-##### 7. Read through this Git tutorial on Udemy *(1-2 hours)*
+#### 8. Read through this Git tutorial on Udemy *(1-2 hours)*
 
 There is a lot of useful information in this tutorial, but it is a lot to digest for beginners. Read through as much of it as you can while still understanding what is going on. Learning about version control is one of the most challenging things in the first week of the class. Above all, strive for a conceptual understanding of how version control works, and why we use it in software development. The details are much more easy to grasp once the concepts are in place.
 
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
-##### 8. Tutorials *(25-50 hours)*
+#### 9. JavaScript Tutorials *(15-40 hours)*
 Complete these tutorials prior to the first day of class.
 
-   - Codecademy: <a href="https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/what-is-html?action=lesson_resume">Intro to HTML+CSS</a>
-   - Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a>
+   Khan Academy: [Intro to JavaScript: Drawing and Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 
-##### 9. Complete the textbook readings for Day 1 of class *(2-3 hours)*
+#### 10. HTML and CSS Tutorial *(15-25 hours)*
+Complete these tutorials prior to the first day of class.
+
+   Khan Academy (up through and including the **Web development tools** section): [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+
+#### 11. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
 We get started right away on Day 1, so be sure to read the following chapters from the textbooks AND complete the associated discussion assignments in our Learning Management System (which you will have access to once your enrollment process is complete):
 
@@ -107,13 +124,3 @@ We get started right away on Day 1, so be sure to read the following chapters fr
   - Chapter 1: "The ABC of Programming"
 
 Plan to spend about 20-30 minutes with each chapter. Do not strive to methodically read and retain every single word, because we cover hundreds of pages of text in the first two weeks of the course. Instead, aim for an understanding of the big topics and orientation to where the details are so that you can find them when you need them. And be sure to read closely enough to come up with questions and observations based on your reading!
-
-##### 10. Download and Install Ryver (do this step after your enrollment is completed) *(15-30 minutes)*
-
-We use an app called Ryver to share resources, chat, make announcements and collaborate. 
-
-You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the desktop app:
-
-[Ryver Downloads](ryver.com/downloads/).
-
-Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
