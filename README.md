@@ -1,4 +1,4 @@
-Code 201: Foundations of Software Development
+Bootcamp Part One: Foundations of Software Development
 -----------------------
 
 ## Pre-work
