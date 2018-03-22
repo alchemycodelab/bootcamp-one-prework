@@ -1,4 +1,4 @@
-Preparing For Success: Prework for Bootcamp
+Preparing For Success: Pre-work for Bootcamp
 ===
 
 ## Bootcamp Part One: Foundations of Software Development
@@ -6,9 +6,9 @@ Preparing For Success: Prework for Bootcamp
 
 ### Success Indicators and Outcomes
 
-One of the biggest indicators of we see in graduates of our program getting good paying jobs quickly is how well students keep up on lab work and apply themselves to stretch goals. Starting an intensive bootcamp program can be overwhelming, much like travelling to a foreign country where you don’t know the language or the culture.
+One of the biggest indicators we see in graduates of our program getting good paying jobs quickly is how well students keep up on lab work and apply themselves to stretch goals. Starting an intensive bootcamp program can be overwhelming, much like travelling to a foreign country where you don’t know the language or culture.
 
-While most students adjust to the pace and intensity over the first week or so, for some the adjustment period can create a habit of incomplete work, struggle and demoralizing outcomes that takes much longer to break.
+While most students adjust to the pace and intensity over the first week or so, for some the adjustment period can create a habit of incomplete work, struggle, and demoralizing outcomes that takes much longer to break.
 
 This is why _we ask all students to take preparation seriously!_ We are asking you to go through material on your own to develop familiarity and practice using your laptop as a development tool. Focus on putting in the hours and dedication, but don’t worry about comprehension! This may seem counterintuitive, but our instructors will cover the material again, in different ways and adding more practical application. And once you start focusing on delivering labs and projects, you won’t be able to escape the things you need to know!
 
