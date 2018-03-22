@@ -29,7 +29,9 @@ All students are encourage to attend our Bootcamp Prep course, though it is not 
 
 #### Install programs and set up your computer
 1. Setup guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
+1. [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself 
 1. Introduce yourself on Ryver *(15-30 minutes)*
+
 
 
 #### Online Tutorials
@@ -43,6 +45,10 @@ All students are encourage to attend our Bootcamp Prep course, though it is not 
 1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
 <hr>
+
+### Email You Instructors
+
+1. [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself. 
 
 ### Install programs and set up your computer
 
