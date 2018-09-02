@@ -27,7 +27,7 @@ familiarity of the material being covered allows students to keep up with the in
 from Day One of the Bootcamp program and prevent being overwhelmed by the amount of new
 material.
 
-All students are encourage to attend our Bootcamp Prep course, though it is not strictly required. Bootcamp Prep requires the same prework listed here, but offers students a week of evenings with an instructor to review high-level concepts and answer questions - as well as tips and tricks for getting the most out of your computer and the covered material. Contact admissions@alchemycodelab.com for more information.
+All students are encouraged to attend our Bootcamp Prep course, though it is not strictly required. Bootcamp Prep requires the same prework listed here, but offers students a week of evenings with an instructor to review high-level concepts and answer questions - as well as tips and tricks for getting the most out of your computer and the covered material. Contact admissions@alchemycodelab.com for more information.
 
 Bootcamp Prep **requires students to complete the prework for Bootcamp One**. The prework gives enrolled Bootcamp Prep Students a clear, step-by-step guide of what they
 need to achieve **before they walk into the first night of Bootcamp Prep**. Online resources can
@@ -82,7 +82,12 @@ offers tips and tricks for working with a computer as a development tool.
 
 ## Introduce yourself on Ryver *(15-30 minutes)*
 
-Note: If the Ryver channel for your class has not yet been set up, please be patient! Admissions will contact you once it has been created.
+Notes: 
+
+* If the Ryver channel for your class has not yet been set up, please be patient! Admissions will contact you once it has been created.
+* Generally you should be invited within 2 weeks of the start date for your class. If you have not been added by that time, please contact admissions.
+* If you are taking Bootcamp Prep, there will be a Ryver channel for both the Bootcamp Prep class, and then the Bootcamp One class
+
 
 - We use Ryver to share resources, chat, make announcements, and collaborate. 
 - You will receive an invitation to our class team.
