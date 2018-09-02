@@ -1,7 +1,9 @@
-Preparing For Success: Pre-work for Bootcamp and Bootcamp Prep
+Preparing For Success: Pre-work
 ===
 
-## Bootcamp Part One: Foundations of Software Development
+This prework applies to the following courses:
+* **Bootcamp Part One: Foundations of Software Development**
+* **Bootcamp Prep**
 
 ### Success Indicators and Outcomes
 
@@ -43,28 +45,18 @@ offers tips and tricks for working with a computer as a development tool.
 
 * Total estimated time for all pre-work steps: 23.5 to 43 hours of working time (not counting breaks)*
 
-### Install programs and set up your computer
-1. Setup guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
-1. [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself 
-1. Introduce yourself on Ryver *(15-30 minutes)*
-
-### Online Tutorials
-
-1. Terminal tutorial and practice *(2-3 hours)*
-1. Git tutorial *(1-2 hours)*
-1. Khan Academy Intro to JavaScript tutorial *(15-40 hours)*
-1. Khan Academy HTML+CSS tutorial *(15-25 hours)*
-
-### Purchase textbooks and read preliminary readings
-
-1. Purchase required textbooks *(15-30 minutes)*
-1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
-
----
-
-## Email You Instructors
-
-* [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself. 
+1. Install programs and set up your computer
+    1. Setup guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
+    1. Email your instructors & introduce yourself 
+    1. Introduce yourself on Ryver *(15-30 minutes)*
+1. Online Tutorials
+    1. Terminal tutorial and practice *(2-3 hours)*
+    1. Git tutorial *(1-2 hours)*
+    1. Khan Academy Intro to JavaScript tutorial *(15-40 hours)*
+    1. Khan Academy HTML+CSS tutorial *(15-25 hours)*
+1. Purchase textbooks and read preliminary readings
+    1. Purchase required textbooks *(15-30 minutes)*
+    1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
 ---
 
@@ -80,7 +72,15 @@ offers tips and tricks for working with a computer as a development tool.
     - Have Ryver installed so we can communicate as a class.
     - Have a GitHub account on Github.com
 
-### Introduce yourself on Ryver *(15-30 minutes)*
+---
+
+## Email You Instructors
+
+* [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself. 
+
+---
+
+## Introduce yourself on Ryver *(15-30 minutes)*
 
 Note: If the Ryver channel for your class has not yet been set up, please be patient! Admissions will contact you once it has been created.
 
