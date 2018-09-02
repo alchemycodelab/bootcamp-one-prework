@@ -25,34 +25,37 @@ All students are encourage to attend our Bootcamp Prep course, though it is not 
 ----
 
 ### Overview of Pre-work Steps *(time to complete per item)*
-*Total estimated time for pre-work Steps 3-11: 23.5 to 43 hours of working time (not counting breaks)*
+
+* Total estimated time for all pre-work steps: 23.5 to 43 hours of working time (not counting breaks)*
 
 #### Install programs and set up your computer
 1. Setup guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
 1. [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself 
 1. Introduce yourself on Ryver *(15-30 minutes)*
 
-
-
 #### Online Tutorials
-1. Practice the terminal *(2-3 hours)*
-1. Git tutorial on Udemy *(1-2 hours)*
+
+1. Terminal tutorial and practice *(2-3 hours)*
+1. Git tutorial *(1-2 hours)*
 1. Khan Academy Intro to JavaScript tutorial *(15-40 hours)*
 1. Khan Academy HTML+CSS tutorial *(15-25 hours)*
 
 #### Purchase textbooks and read preliminary readings
+
 1. Purchase required textbooks *(15-30 minutes)*
 1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
-<hr>
+---
 
 ### Email You Instructors
 
-1. [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself. 
+* [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself. 
+
+---
 
 ### Install programs and set up your computer
 
-#### ☐ Complete the setup guide for your computer's operating system *(multiple downloads are involved; 1-3 hours depending on your network speed)*
+#### Complete the setup guide for your computer's operating system *(multiple downloads are involved; 1-3 hours depending on your network speed)*
 
 - [Computer Setup Instructions](https://github.com/alchemycodelab/computer-setup)
 - Following completion of these installations, you should:
@@ -62,7 +65,7 @@ All students are encourage to attend our Bootcamp Prep course, though it is not 
     - Have Ryver installed so we can communicate as a class.
     - Have a GitHub account on Github.com
 
-#### ☐ Introduce yourself on Ryver *(15-30 minutes)*
+#### Introduce yourself on Ryver *(15-30 minutes)*
 
 Note: If the Ryver channel for your class has not yet been set up, please be patient! Admissions will contact you once it has been created.
 
@@ -70,37 +73,55 @@ Note: If the Ryver channel for your class has not yet been set up, please be pat
 - You will receive an invitation to our class team.
 - Once you have joined our class team, add a nice profile picture of your lovely face. Then say hello in your class team, and introduce yourself.
 
-<hr>
+---
 
 ### Online Tutorials
 
-#### ☐ Practice the Terminal *(1-2 hours)*
+#### 1. Practice the Terminal *(1-2 hours)*
 
-One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line. Using the terminal may feel a little scary at first, but stick with it and give it some practice. If you aren't already, this is a great time to get used to the command line. 
+One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
 
-- Work through section 5 of this tutorial: **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
+If you aren't already, this is a great time to get used to the command line. No matter which operating system you're using, this tutorial can help you feel confident using the command line to navigate your computer:
 
-#### ☐ Work through this Git tutorial on Udemy *(1-2 hours)*
+https://ryanstutorials.net/linuxtutorial
 
-- [https://www.udemy.com/git-started-with-github/](https://www.udemy.com/git-started-with-github/)
+Please work through Sections 1 through 5 of this tutorial. Note: This tutorial is for everyone, even though the word "Linux" is in the title! The same commands work in Windows and MacOS terminals as well.
 
-#### ☐ JavaScript Tutorials *(10-20 hours)*
+Also recommended from this tutorial: Section 14, which is a handy cheatsheet of commands. Feel free to explore the more advanced topics if you wish, but those topics are beyond the scope of the Code 201 course!
+
+Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
+
+##### Git tutorials *(1-2 hours)*
+
+**A.** There is a lot of useful information in the Udemy tutorial, but it is a lot to digest for beginners. Skim through it as you can while striving to acquire terminology and gaining an understanding of the large concepts. Learning about version control is one of the most challenging things in the first week of Code 201. Above all, for now, strive for a conceptual understanding of how version control works, and why we use it in software development. The details are much more easy to grasp once the concepts are in place.
+
+[https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
+
+**B.** For a little hands-on practice, complete the first three exercises in the following tutorial:
+
+[https://learngitbranching.js.org](https://learngitbranching.js.org )
+
+1. Introduction to Git Commits
+1. Branching in Git
+1. Merging in Git
+
+#### JavaScript Tutorials *(10-20 hours)*
+
 Complete these tutorials prior to the first day of class.
 
 - Khan Academy: [Intro to JavaScript: Drawing and Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 
 #### ☐ HTML and CSS Tutorial *(10-15 hours)*
+
 Complete these tutorials prior to the first day of class.
 
 - Khan Academy (up through and including the **Web development tools** section): [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 
-
-
-<hr>
+---
 
 ### Purchase textbooks and read preliminary readings
 
-#### ☐ Purchase the required textbooks *(15-30 minutes)*
+#### Purchase the required textbooks *(15-30 minutes)*
 
 If you haven't already, purchase this textbook set prior to the first day of class:
 
