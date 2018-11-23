@@ -48,7 +48,7 @@ offers tips and tricks for working with a computer as a development tool.
 1. Install programs and set up your computer
     1. Setup guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
     1. Email your instructors & introduce yourself 
-    1. Introduce yourself on Ryver *(15-30 minutes)*
+    1. Introduce yourself on Slack *(15-30 minutes)*
 1. Online Tutorials
     1. Terminal tutorial and practice *(2-3 hours)*
     1. Git tutorial *(1-2 hours)*
@@ -80,16 +80,16 @@ offers tips and tricks for working with a computer as a development tool.
 
 ---
 
-## Introduce yourself on Ryver *(15-30 minutes)*
+## Introduce yourself on Slack *(15-30 minutes)*
 
 Notes: 
 
-* If the Ryver channel for your class has not yet been set up, please be patient! Admissions will contact you once it has been created.
+* If the Slack channel for your class has not yet been set up, please be patient! Admissions will contact you once it has been created.
 * Generally you should be invited within 2 weeks of the start date for your class. If you have not been added by that time, please contact admissions.
-* If you are taking Bootcamp Prep, there will be a Ryver channel for both the Bootcamp Prep class, and then the Bootcamp One class
+* If you are taking Bootcamp Prep, there will be a Slack channel for both the Bootcamp Prep class, and then the Bootcamp One class
 
 
-- We use Ryver to share resources, chat, make announcements, and collaborate. 
+- We use Slack to share resources, chat, make announcements, and collaborate. 
 - You will receive an invitation to our class team.
 - Once you have joined our class team, add a nice profile picture of your lovely face. Then say hello in your class team, and introduce yourself.
 
