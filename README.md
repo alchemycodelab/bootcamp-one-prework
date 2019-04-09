@@ -7,8 +7,7 @@ This prework applies to the following courses:
 
 ### Success Indicators and Outcomes
 
-One of the biggest indicators we see in graduates of our program getting good paying jobs quickly is how well 
-students keep up on lab work and apply themselves to stretch goals. Starting an intensive bootcamp program can be overwhelming, much like travelling to a foreign country where you don’t know the language or culture.
+One of the biggest indicators we see in graduates of our program getting good paying jobs quickly is how well students keep up on lab work and apply themselves to stretch goals. Starting an intensive bootcamp program can be overwhelming, much like travelling to a foreign country where you don’t know the language or culture.
 
 While most students adjust to the pace and intensity over the first week or so, for some the adjustment period can create a habit of incomplete work, struggle, and demoralizing outcomes that takes much longer to break.
 
@@ -27,17 +26,10 @@ familiarity of the material being covered allows students to keep up with the in
 from Day One of the Bootcamp program and prevent being overwhelmed by the amount of new
 material.
 
-All students are encouraged to attend our Bootcamp Prep course, though it is not strictly required. Bootcamp Prep requires the same prework listed here, but offers students a week of evenings with an instructor to review high-level concepts and answer questions - as well as tips and tricks for getting the most out of your computer and the covered material. Contact admissions@alchemycodelab.com for more information.
-
 Bootcamp Prep **requires students to complete the prework for Bootcamp One**. The prework gives enrolled Bootcamp Prep Students a clear, step-by-step guide of what they
 need to achieve **before they walk into the first night of Bootcamp Prep**. Online resources can
 give students a good first look at the material. We understand that some things will still be
 confusing and may not make sense.
-
-Students should keep a journal of topics for which they have questions or find confusing. During
-Bootcamp Prep, the instructor will do a high-level review of all the material from the prework,
-plus give students an opportunity to discuss their questions and issues. Bootcamp Prep also
-offers tips and tricks for working with a computer as a development tool.
 
 ----
 
@@ -74,7 +66,7 @@ offers tips and tricks for working with a computer as a development tool.
 
 ---
 
-## Email You Instructors
+## Email Your Instructors
 
 * [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself. 
 
@@ -86,7 +78,7 @@ Notes:
 
 * If the Slack channel for your class has not yet been set up, please be patient! Admissions will contact you once it has been created.
 * Generally you should be invited within 2 weeks of the start date for your class. If you have not been added by that time, please contact admissions.
-* If you are taking Bootcamp Prep, there will be a Slack channel for both the Bootcamp Prep class, and then the Bootcamp One class
+* There will be a Slack channel for both the Bootcamp Prep class, and then the Bootcamp One class
 
 
 - We use Slack to share resources, chat, make announcements, and collaborate. 
