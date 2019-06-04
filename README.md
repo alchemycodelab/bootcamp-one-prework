@@ -15,7 +15,7 @@ This is why _we ask all students to take preparation seriously!_ We are asking y
 
 ### Pre-work
 
-The pre-work for Bootcamp Part One is mandatory and counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process. 
+The pre-work for Bootcamp Part One is mandatory and counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process.
 
 Start as soon as you can and be sure to allow yourself plenty of time to complete it. Expect to spend, **at a minimum**, several evenings and a weekend day or two to get everything completed. Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners. Detailed time estimates are provided in the following overview.
 
@@ -39,7 +39,7 @@ confusing and may not make sense.
 
 1. Install programs and set up your computer
     1. Setup guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
-    1. Email your instructors & introduce yourself 
+    1. Email your instructors & introduce yourself
     1. Introduce yourself on Slack *(15-30 minutes)*
 1. Online Tutorials
     1. Terminal tutorial and practice *(2-3 hours)*
@@ -68,20 +68,20 @@ confusing and may not make sense.
 
 ## Email Your Instructors
 
-* [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself. 
+* [Email your instructors](mailto:instruction@alchemycodelab.com) & introduce yourself.
 
 ---
 
 ## Introduce yourself on Slack *(15-30 minutes)*
 
-Notes: 
+Notes:
 
 * If the Slack channel for your class has not yet been set up, please be patient! Admissions will contact you once it has been created.
 * Generally you should be invited within 2 weeks of the start date for your class. If you have not been added by that time, please contact admissions.
 * There will be a Slack channel for both the Bootcamp Prep class, and then the Bootcamp One class
 
 
-- We use Slack to share resources, chat, make announcements, and collaborate. 
+- We use Slack to share resources, chat, make announcements, and collaborate.
 - You will receive an invitation to our class team.
 - Once you have joined our class team, add a nice profile picture of your lovely face. Then say hello in your class team, and introduce yourself.
 
@@ -121,7 +121,13 @@ Using the terminal may feel a little scary at first, but stick with it and give 
 
 Complete these tutorials prior to the first day of class.
 
-- Khan Academy: [Intro to JavaScript: Drawing and Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+- [JavaScript Fundamentals](https://javascript.info/first-steps)
+- [JavaScript Objects](https://javascript.info/object)
+- [JavaScript Arrays](https://javascript.info/array)
+
+Optional tutorial:
+
+- [DOM](https://javascript.info/document)
 
 ### HTML and CSS Tutorial *(10-15 hours)*
 
