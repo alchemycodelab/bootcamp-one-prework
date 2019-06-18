@@ -1,10 +1,5 @@
 # Preparing For Success: Pre-work
 
-This prework applies to the following courses:
-
-- **Bootcamp Part One: Foundations of Software Development**
-- **Bootcamp Prep**
-
 ### Success Indicators and Outcomes
 
 One of the biggest indicators we see in graduates of our program getting good paying jobs quickly is how well students keep up on lab work and apply themselves to stretch goals. Starting an intensive bootcamp program can be overwhelming, much like traveling to a foreign country where you don’t know the language or culture.
@@ -15,9 +10,11 @@ This is why _we ask all students to take preparation seriously!_ We are asking y
 
 ### Pre-work
 
-The pre-work for Bootcamp Part One is mandatory and counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process.
+The pre-work for Bootcamp is mandatory and counts as 5% of your Bootcamp I total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process.
 
 Start as soon as you can and be sure to allow yourself plenty of time to complete it. Expect to spend, **at a minimum**, several evenings and a weekend day or two to get everything completed. Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners. Detailed time estimates are provided in the following overview.
+
+There's no such thing as too much preparation before you begin at Alchemy. We have listed additional tutorials and materials, plus there is a wealth of free information online, so feel free to branch out and practice your search skills.
 
 ## Bootcamp Prep
 
