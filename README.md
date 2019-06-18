@@ -165,5 +165,8 @@ If you finish the above and have VS Code installed, try going through these tuto
 
 Likewise, here are some additional resources for you to go over, time permitting:
 
+- Khan Academy: [Intro to JavaScript: Drawing and Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+- Khan Academy (up through and including the **Web development tools** section): [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [DOM](https://javascript.info/document)
 - [Eloquent Javascript PDF - an excellent resource](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
+
