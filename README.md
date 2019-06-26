@@ -82,6 +82,8 @@ Notes:
 * We use Slack to share resources, chat, make announcements, and collaborate.
 * You will receive an invitation to our class team.
 * Once you have joined our class team, add a nice profile picture of your lovely face. Then say hello in your class team, and introduce yourself.
+* We welcome you to list your preferred pronoun next to your name here in Slack (top left drop down bar, select Profile & Account, Choose Edit Profile and then include your pronouns under Display Name (she/her, they/them, etc).
+_As a place that values all people, thank you for joining us in showing your support._
 
 ---
 
