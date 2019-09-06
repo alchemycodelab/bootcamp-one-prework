@@ -11,7 +11,9 @@ This is why _we ask all students to take preparation seriously!_ We are asking y
 To summarize:
 
 1. **Avoid skipping or skimping on prework.** Invest in yourself and your future career by taking the opportunity to expose yourself to the vast amount of information available online.
-1. **The purpose of prework is exposure and familiarity.** You will likely have far more new questions than answers. The material may go over your ahead, things may still not make sense, and you probably have not gain the ability to execute the material on your own. You are being exposed to knowledge, syntax, and language - which is not the same thing as knowing how to do something. The goal is for you to gain some base familiarity and experience recognition during actual class time when topics are discussed.
+    * Before the start of Bootcamp I commit to working through all of the tutorials, and possibly search online for other sources of information about introductory material in the same areas. Be curious!
+1. **The purpose of prework is exposure and familiarity, not comprehension or competency.** You will likely have far more new questions than answers. The material may go over your ahead, things may still not make sense, and you probably have not gained the ability to execute the material on your own. You are being exposed to knowledge, syntax, and language - which is not the same thing as knowing how to do something. The goal is for you to gain some base familiarity and experience recognition during actual class time when topics are discussed. Imagine you are about to embark on a 6 month stay in a foreign country and you want to watch movies and videos, read about things to do, learn some basic conversational how-to and etiquette. That's what the prework is for!
+    * Before the start of Bootcamp Prep, commit to working broadly across the tutorials getting some exposure to all the topics. Prioritize the terminal and git tutorials, but don't go so deep that you sacrifice getting in some JavaScript, HTML and CSS exposure
 
 ### Pre-work
 
