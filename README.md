@@ -8,6 +8,11 @@ While most students adjust to the pace and intensity over the first week or so, 
 
 This is why _we ask all students to take preparation seriously!_ We are asking you to go through material on your own to develop familiarity and practice using your laptop as a development tool. Focus on putting in the hours and dedication, but don’t worry about comprehension! This may seem counterintuitive, but our instructors will cover the material again, in different ways and adding more practical application. And once you start focusing on delivering labs and projects, you won’t be able to escape the things you need to know!
 
+To summarize:
+
+1. **Avoid skipping or skimping on prework.** Invest in yourself and your future career by taking the opportunity to expose yourself to the vast amount of information available online.
+1. **The purpose of prework is exposure and familiarity.** You will likely have far more new questions than answers. The material may go over your ahead, things may still not make sense, and you probably have not gain the ability to execute the material on your own. You are being exposed to knowledge, syntax, and language - which is not the same thing as knowing how to do something. The goal is for you to gain some base familiarity and experience recognition during actual class time when topics are discussed.
+
 ### Pre-work
 
 The pre-work for Bootcamp is mandatory and counts as 5% of your Bootcamp I total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process.
