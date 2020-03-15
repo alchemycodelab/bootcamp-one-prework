@@ -129,6 +129,7 @@ Using the terminal may feel a little scary at first, but stick with it and give 
 Complete this javascript tutorial prior to the first day of class:
 
 - [Codecademy.com, Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+- Take and Learn [JavaScript Exercises](https://repl.it/community/classrooms/20690)
 
 ### HTML and CSS Tutorials
 
@@ -178,4 +179,3 @@ Likewise, here are some additional resources for you to go over, time permitting
 - Khan Academy (up through and including the **Web development tools** section): [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [DOM](https://javascript.info/document)
 - [Eloquent Javascript PDF - an excellent resource](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
-
