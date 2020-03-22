@@ -30,10 +30,8 @@ familiarity of the material being covered allows students to keep up with the in
 from Day One of the Bootcamp program and prevent being overwhelmed by the amount of new
 material.
 
-Bootcamp Prep **requires students to complete the prework for Bootcamp One**. The prework gives enrolled Bootcamp Prep Students a clear, step-by-step guide of what they
-need to achieve **before they walk into the first night of Bootcamp Prep**. Online resources can
-give students a good first look at the material. We understand that some things will still be
-confusing and may not make sense.
+Bootcamp Prep **requires students to complete the prework assigned for the Program**. The prework gives enrolled Bootcamp Prep Students a clear, step-by-step guide of what they need to achieve **before they start clasees**. Online resources can
+give students a good first look at the material. We understand that some things will still be confusing and may not make sense.
 
 ---
 
