@@ -2,36 +2,38 @@
 
 ### Success Indicators and Outcomes
 
-One of the biggest indicators we see in graduates of our program getting good paying jobs quickly is how well students keep up on lab work and apply themselves to stretch goals. Starting an intensive bootcamp program can be overwhelming, much like traveling to a foreign country where you don’t know the language or culture.
+One of the biggest indicators of post-graduation success we've seen is how well students keep up on lab work and apply themselves to stretch goals in homework assignments. Starting an intensive coding program like Alchemy can be overwhelming, much like traveling to a foreign country where you don’t know the language or culture.
 
-While most students adjust to the pace and intensity over the first week or so, for some the adjustment period can create a habit of incomplete work, struggle, and demoralizing outcomes that takes much longer to break.
+**We ask that all students take this preparation work seriously.** While most students adjust to the pace and intensity of the program over the first week or two, some students find that the adjustment period can create a cycle of incomplete work, struggle, and demoralizing outcomes that takes much longer to break.
 
-This is why _we ask all students to take preparation seriously!_ We are asking you to go through material on your own to develop familiarity and practice using your laptop as a development tool. Focus on putting in the hours and dedication, but don’t worry about comprehension! This may seem counterintuitive, but our instructors will cover the material again, in different ways and adding more practical application. And once you start focusing on delivering labs and projects, you won’t be able to escape the things you need to know!
+We want you to have the best outcome possible, which is why we're asking you to go through this material on your own, in order to develop familiarity while practicing using your laptop as a development tool.  
+Focus on putting in the hours and dedication, but _don’t worry about comprehension!_ This may seem counterintuitive, but our instructors will cover the material again, in different ways, while adding more practical knowledge applications.
 
 To summarize:
 
-1. **Avoid skipping or skimping on prework.** Invest in yourself and your future career by taking the opportunity to expose yourself to the vast amount of information available online.
-    > _Before the start of Bootcamp I commit to working through all of the tutorials_, and possibly search online for other sources of information about introductory material in the same areas. Be curious!
-1. **The purpose of prework is exposure and familiarity, not comprehension or competency.** You will likely have far more new questions than answers. The material may go over your ahead, things may still not make sense, and you probably have not gained the ability to execute the material on your own. You are being exposed to knowledge, syntax, and language - which is not the same thing as knowing how to do something. The goal is for you to gain some base familiarity and experience recognition during actual class time when topics are discussed. Imagine you are about to embark on a 6 month stay in a foreign country and you want to watch movies and videos, read about things to do, learn some basic conversational how-to and etiquette. That's what the prework is for!
-    > _Before the start of Bootcamp Prep, commit to working broadly across the tutorials getting some exposure to all the topics._ Prioritize the terminal and git tutorials, but don't go so deep that you sacrifice getting in some JavaScript, HTML and CSS exposure
+1. **Avoid skipping, skimming, or skimping out on prework.** Invest in yourself and your future career by taking the opportunity to expose yourself to the vast amount of information available online.
+    > _Before the start of Bootcamp I commit to working through all of the tutorials, being curious, and seeking out further knowledge._  
+1. **The purpose of prework is exposure and familiarity, not comprehension or competency.** It is likely that you'll have way more questions than answers. The material may go over your ahead, things may still not make sense, and you probably haven't gained the ability to execute the material on your own. That's ok!  
+You are being exposed to knowledge, syntax, and language-- which is not the same thing as knowing how to do something. The goal is for you to gain some base familiarity and pattern recognition, which will help you during actual class time when these topics are discussed in-depth.  
+Imagine you are about to embark on a 6 month stay in a foreign country and you want to watch movies and videos, read about things to do, and learn some basic conversational how-to and etiquette. That's what the prework is for!
+    > _Before the start of my training at Alchemy, I'm committed to working broadly across the tutorials and getting some exposure to all of the topics._  
+ 
+ Prioritize the terminal and git tutorials, but don't go so deep that you sacrifice getting JavaScript, HTML and CSS exposure.
 
 ### Pre-work
 
-The pre-work for Bootcamp is mandatory and counts as 5% of your Bootcamp I total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process.
+**The pre-work for Code 102 is mandatory and counts as 5% of your Code 102 total course grade.** You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process.
 
 Start as soon as you can and be sure to allow yourself plenty of time to complete it. Expect to spend, **at a minimum**, several evenings and a weekend day or two to get everything completed. Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners. Detailed time estimates are provided in the following overview.
 
 There's no such thing as too much preparation before you begin at Alchemy. We have listed additional tutorials and materials, plus there is a wealth of free information online, so feel free to branch out and practice your search skills.
 
-## Bootcamp Prep
+## Code 201
 
-This class provides a solid foundation from which to begin the bootcamp program. Having a
-familiarity of the material being covered allows students to keep up with the intensive lab work
-from Day One of the Bootcamp program and prevent being overwhelmed by the amount of new
-material.
+This class provides a solid foundation from which to begin the program. Having familiarity with the material being covered allows the students to keep up with the intensive lab work from day one, and prevent being overwhelmed by the amount of new
+material being presented daily.
 
-Bootcamp Prep **requires students to complete the prework assigned for the Program**. The prework gives enrolled Bootcamp Prep Students a clear, step-by-step guide of what they need to achieve **before they start classes**. Online resources can
-give students a good first look at the material. We understand that some things will still be confusing and may not make sense.
+Code 201 **requires students to complete the prework assigned for the program**. The prework gives enrolled students a clear, step-by-step guide for what they need to achieve **before they start classes**. Online resources can give students a good first look at the material. We understand that some things will still be confusing and may not make sense. That's ok! 
 
 ---
 
