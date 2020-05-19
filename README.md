@@ -23,8 +23,6 @@ Prioritize the terminal and git tutorials, but don't go so deep that you sacrifi
 
 **This prep work is mandatory and counts as 5% of your Code 102 total course grade.** You'll have the opportunity to report your progress on these assignments shortly after you've completed the enrollment process.
 
-**Expect to spend a _minimum_ of several evenings and a weekend day or two to get everything completed.** Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners. Detailed time estimates are provided in the following overview.
-
 #### Required for Code 201
 
 Code 201 **requires students to complete this prep work assigned for the program**. This prep 
@@ -32,6 +30,8 @@ work gives enrolled students a clear, step-by-step guide for what they need to a
 
 ---
 ## Time Considerations
+
+**Expect to spend a _minimum_ of several evenings and a weekend day or two to get everything completed.** Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners.
 
 #### The estimated time to complete all of the prep work outlined below (_not including breaks_) is **from 23 hours to 78 hours**.
 
@@ -47,12 +47,13 @@ work gives enrolled students a clear, step-by-step guide for what they need to a
 
 ## Install programs and set up your computer _(1-3 hours depending on your network speed)_
 
-* [Computer Setup Instructions](https://github.com/alchemycodelab/computer-setup)
-* Following completion of these installations, you should:
+**[Computer Setup Instructions](https://github.com/alchemycodelab/computer-setup)**
+
+Following completion of these installations, you should:
+
 * Have a terminal with a Git compatible prompt
 * Type `git --version` in your terminal and not receive an error
 * Be able to open VSCode from the Terminal or Git Bash by typing `code .`
-* Have Slack installed so we can communicate as a class.
 * Have a GitHub account on Github.com (please select a professional username, employers will be looking at it!)
 
 ---
@@ -70,7 +71,7 @@ work gives enrolled students a clear, step-by-step guide for what they need to a
 * We use Slack to share resources, chat, make announcements, and collaborate.
 * You will receive an invitation to our class team. (You should be invited within 2 weeks of the start date for your class. If you have not been added by that time, please contact admissions.)
 * Once you have joined our class team, add a nice profile picture of your lovely face. Then say hello in your class team, and introduce yourself.
-* We welcome you to list your preferred pronoun next to your name here in Slack (top left drop down bar, select Profile & Account, Choose Edit Profile and then include your pronouns under `Display Name` (she/her, they/them, etc).
+* We welcome you to list your preferred pronoun next to your name here in Slack (top left drop down bar, select `Profile & Account`, choose `Edit Profile` and then include your pronouns under `Display Name` (she/her, they/them, etc).
 _As a place that values all people, we thank you for joining us in showing your support._
 
 ---
@@ -79,31 +80,34 @@ _As a place that values all people, we thank you for joining us in showing your 
 
 ### Practice the Terminal _(1-2 hours)_
 
-**[Bash Command Line Tutorial](https://ryanstutorials.net/linuxtutorial)**
+**Bash Command Line Tutorial Series**
 
-**Please work through Sections 1 through 5 of this tutorial.** Note: This tutorial is for everyone, even though the word "Linux" is in the title! The same commands work in Windows and MacOS terminals as well.
+**Please work through the following sections of the tutorial:** Note: This tutorial is for everyone, even though the word "Linux" is in the title! The same commands work in Windows and MacOS terminals as well.
 
-One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
+A significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
+
+**[1. The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)**  
+**[2. System Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)**  
+**[3. Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)**  
+**[4. File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)**  
+
 
 **Also recommended from this tutorial: Section 14, which is a handy cheatsheet of commands.** Feel free to explore the more advanced topics if you wish, but those topics are beyond the scope of the Code 201 course!
 
 ### Git Tutorials _(1-2 hours)_
 
-**[Git Tutorial, A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)**
-
-There is a lot of useful information in this tutorial, but it is a lot to digest for beginners. **Skim through it**, while striving to acquire terminology and gain an understanding of the large concepts. Learning about version control is one of the most challenging things in the first week of Code 201. Above all, for now, aim for a conceptual understanding of how version control works, and why we use it in software development.
-
+**[Basic Git Commands With Examples](https://rubygarage.org/blog/most-basic-git-commands-with-examples)**
 
 **[Learn Git Branching](https://learngitbranching.js.org)**
 
-**Please only complete the following 3 sections of the Learn Git Branching tutorial:**
+**Please only complete the following 3 sections of the Learn Git Branching tutorial, under `Introduction Sequence`:**
   1. Introduction to Git Commits
   1. Branching in Git
   1. Merging in Git
 
 ### JavaScript Tutorials _(15-40 hours)_
 
-**_(Note: These must be completed before first day of class)_**
+**_(Note: These must be completed before the first day of class)_**
 
 **[Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)**
 
@@ -111,7 +115,7 @@ There is a lot of useful information in this tutorial, but it is a lot to digest
 
 ### HTML and CSS Tutorials _(15-25 hours)_
 
-**_(Note: These must be completed before first day of class)_**
+**_(Note: These must be completed before the first day of class)_**
 
 **[Intro to HTML](https://www.codecademy.com/learn/learn-html)**
 
@@ -144,7 +148,9 @@ We get started right away on Day 1, so be sure to **read the following chapters 
 
 ---
 
-## (Optional) Further Recommended JavaScript Tutorials and Resources:
+## (Optional) Further Recommended Tutorials and Resources:
+
+**[Git Tutorial, A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)**
 
 If you finish the above prep work and have VS Code installed, try going through these tutorials using the VS Code Editor with the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). 
 
