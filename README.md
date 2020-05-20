@@ -47,7 +47,7 @@ work gives enrolled students a clear, step-by-step guide for what they need to a
 
 ## Install programs and set up your computer _(1-3 hours depending on your network speed)_
 
-**[Computer Setup Instructions](https://github.com/alchemycodelab/computer-setup)**
+**[Computer Setup Instructions](https://github.com/alchemycodelab/computer-setup-script)**
 
 Following completion of these installations, you should:
 
@@ -109,7 +109,7 @@ A significant aspect of creating software is interacting directly with text file
 
 **_(Note: These must be completed before the first day of class)_**
 
-**[Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)**
+**[Intro to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)**
 
 **[JavaScript Exercises](https://repl.it/community/classrooms/20690)** (Note: you do not need to complete all exercises available, aim for 10-20)
 
@@ -154,7 +154,7 @@ We get started right away on Day 1, so be sure to **read the following chapters 
 
 If you finish the above prep work and have VS Code installed, try going through these tutorials using the VS Code Editor with the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). 
 
-If you do not have a VS Code environment working you can also use a [Javascript Environment hosted on Repl.it](https://repl.it/repls/StandardVirtualConfig).
+If you do not have a VS Code environment working you can also use a [JavaScript Environment hosted on Repl.it](https://repl.it/repls/StandardVirtualConfig).
 
 **[JavaScript Fundamentals](https://javascript.info/first-steps)**
 
@@ -171,4 +171,4 @@ If you do not have a VS Code environment working you can also use a [Javascript 
 
 **[DOM](https://javascript.info/document)**
 
-**[Eloquent Javascript PDF - an excellent resource](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)**
+**[Eloquent JavaScript PDF - an excellent resource](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)**
