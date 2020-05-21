@@ -1,6 +1,13 @@
 # Organized by domain, with descriptions
 
 
+## TYPING
+
+Allows you to take either 1-minute, or page-long typing tests (easy to screenshot for quick numbers), plus has free lessons and a fairly simple UI. 
+Barrier to entry: minimum wpm should be at least 30, with an accuracy of 85% or more.   
+
+[Take Typing Tests on Typing.com](https://www.typing.com/student/tests)    
+
 
 ## TERMINAL
 
