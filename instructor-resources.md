@@ -50,7 +50,7 @@ Scrimba is very hit-or-miss, but Eric Tirado had two very nice tutorials that I 
 
 [CSS Tutorial from RyansTutorials.net](https://ryanstutorials.net/css-tutorial/) -- 1 hr    
 [CSS Scrimba Video Tutorial from Eric Tirado](https://scrimba.com/course/gintrotocss)    
-[Intro to CSS](https://www.codecademy.com/learn/learn-css) -- 9 hrs (currently listed in the prep work as required before the first day of class)   
+[Intro to CSS](https://www.codecademy.com/learn/learn-css) -- 15 hrs (currently listed in the prep work as required before the first day of class)   
 
 
 
