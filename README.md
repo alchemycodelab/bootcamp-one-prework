@@ -49,8 +49,9 @@ work gives enrolled students a clear, step-by-step guide for what they need to a
 
 Essentials | Extra Info | Time To Complete
 |---|---|---|
+Complete: **[1-Minute Typing Test](https://www.typing.com/student/typing-test/1-minute)** | Once completed, take a screenshot of your results. You will need to get at **least 35 WPM and an accuracy of 85% or greater** to be able to participate at Alchemy. You can re-take the test as many times as necessary. | 1-2 minutes | 
 Complete: **[Computer Setup Guide](https://github.com/alchemycodelab/computer-setup-script)** |See below for notes | 1-2 hours |
-Email your instructors and introduce yourself: **[instruction@alchemycodelab.com](mailto:instruction@alchemycodelab.com)** | | 5-15 minutes |
+Email your instructors and introduce yourself: **[instruction@alchemycodelab.com](mailto:instruction@alchemycodelab.com)** | Please attach screenshot of successful typing test results. | 5-15 minutes |
 Slack: **[Download Slack](https://slack.com/downloads)** and introduce yourself | Please upload a photo of yourself, and we welcome you to list your preferred pronoun next to your name here in Slack (top left drop down bar, select `Profile & Account`, choose `Edit Profile` and then include your pronouns under `Display Name` (she/her, they/them, etc). | 10-20 minutes |
 
 
