@@ -124,11 +124,11 @@ Essentials | Info | Time To Complete
 |---|---|---|
 Purchase **[Web Design with HTML & CSS; JavaScript & jQuery book set by Jon Duckett](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=)** | | |
 Complete the following readings: | Do not strive to methodically read and retain every single word. Instead, aim for an understanding of the big topics and orientation to where the details are so that you can find them when you need them.  | 2-3 hours |
-(HTML & CSS textbook) Chapter 1| "Structure" -- Be sure to **complete the associated discussion assignment** in our Learning Management System| 20-30 minutes |
-(HTML & CSS textbook) Chapter 8 | "Extra Markup" -- Be sure to **complete the associated discussion assignment** in our Learning Management System | 20-30 minutes | 
-(HTML & CSS textbook) Chapter 17 | "HTML5 Layout" -- Be sure to **complete the associated discussion assignment** in our Learning Management System| 20-30 minutes | 
-(HTML & CSS textbook) Chapter 18 | "Process & Design" -- Be sure to **complete the associated discussion assignment** in our Learning Management System| 20-30 minutes |
-(JavaScript textbook) Chapter 1 | "The ABC of Programming" -- Be sure to **complete the associated discussion assignment** in our Learning Management System | 20-30 minutes |
+(HTML & CSS textbook) Chapter 1| **"Structure"** -- Be sure to **complete the associated discussion assignment** in our Learning Management System| 20-30 minutes |
+(HTML & CSS textbook) Chapter 8 | **"Extra Markup"** -- Be sure to **complete the associated discussion assignment** in our Learning Management System | 20-30 minutes | 
+(HTML & CSS textbook) Chapter 17 | **"HTML5 Layout"** -- Be sure to **complete the associated discussion assignment** in our Learning Management System| 20-30 minutes | 
+(HTML & CSS textbook) Chapter 18 | **"Process & Design"** -- Be sure to **complete the associated discussion assignment** in our Learning Management System| 20-30 minutes |
+(JavaScript textbook) Chapter 1 | **"The ABC of Programming"** -- Be sure to **complete the associated discussion assignment** in our Learning Management System | 20-30 minutes |
 
 ---
 # More:
