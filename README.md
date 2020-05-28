@@ -81,7 +81,7 @@ Essentials
 Read: **[Basic Git Commands With Examples](https://rubygarage.org/blog/most-basic-git-commands-with-examples)** |
 
 
-## JavaScript _(10-15)_
+## JavaScript 
 
 Essentials | Time To Complete 
 |---|---|
@@ -93,7 +93,7 @@ Section 4: **[Scope](https://www.codecademy.com/courses/introduction-to-javascri
 Section 5: **[Arrays](https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/exercises/arrays)** | 1-2 hours |
 Section 6: **[Loops](https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/exercises/loops)** | 1-2 hours |
 Section 8: **[Objects](https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects)** | 1-2 hours |
-Section 9: **[Classes](https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/exercises/introduction)** | 1-2 hours |
+
 
 
 ## HTML 
@@ -153,6 +153,7 @@ Complete: **[Git Tutorial, A Comprehensive Guide](https://blog.udemy.com/git-tut
 
 More
 ---|
+Section 9: **[Classes](https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/exercises/introduction)** |
 Complete (any) 10-15 exercises: **[JavaScript Exercises](https://repl.it/community/classrooms/20690)** |
 Read: **[DOM](https://javascript.info/document)** |
 Read: **[Eloquent JavaScript PDF](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)** |
