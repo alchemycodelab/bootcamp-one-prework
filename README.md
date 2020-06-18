@@ -48,7 +48,7 @@ Code 201 **requires students to complete the prework assigned for the program**.
 1. Online Tutorials
    1. Terminal tutorial and practice _(2-3 hours)_
    1. Git tutorial _(1-2 hours)_
-   1. Codecademy Intro to JavaScript tutorial _(15-40 hours)_
+   1. Codecademy Intro to JavaScript tutorial _(15-40 hours)_ 
    1. Codecademy HTML+CSS tutorial _(15-25 hours)_
 1. Purchase textbooks and read preliminary readings
    1. Purchase required textbooks _(15-30 minutes)_
@@ -128,16 +128,16 @@ Using the terminal may feel a little scary at first, but stick with it and give 
 
 Complete this javascript tutorial prior to the first day of class:
 
-- [Codecademy.com, Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) -- yes, the whole thing!  All sections in this tutorial.
+- [Codecademy.com, Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) -- yes, the whole thing!  All sections in this tutorial. But don't worry about the PRO subscription stuff, which may or may not be thrown in for free right now, depending on when you signed up.
 - Take and Learn [JavaScript Exercises](https://repl.it/community/classrooms/20690)
 
 ### HTML and CSS Tutorials
 
 Complete these tutorials prior to the first day of class.
 
-- [Codecademy.com, Learn HTML](https://www.codecademy.com/learn/learn-html) -- yes, the thing, not just the section called "Introduction to HTML"). All sections within this tutorial, from "Introduction to HTML" through and including "Unordered Lists" or what ever the last one is.
+- [Codecademy.com, Learn HTML](https://www.codecademy.com/learn/learn-html) -- yes, the thing, not just the section called "Introduction to HTML"). All sections within this tutorial, from "Introduction to HTML" through and including "Unordered Lists" or what ever the last one is. But don't worry about the PRO subscription stuff, which may or may not be thrown in for free right now, depending on when you signed up.
 
-- [Codecademy.com, Learn CSS](https://www.codecademy.com/learn/learn-css) -- yes, the whole thing! All sections in this tutorial.
+- [Codecademy.com, Learn CSS](https://www.codecademy.com/learn/learn-css) -- yes, the whole thing! All sections in this tutorial. But don't worry about the PRO subscription stuff, which may or may not be thrown in for free right now, depending on when you signed up.
 
 ---
 
