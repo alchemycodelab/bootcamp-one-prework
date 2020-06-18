@@ -128,16 +128,16 @@ Using the terminal may feel a little scary at first, but stick with it and give 
 
 Complete this javascript tutorial prior to the first day of class:
 
-- [Codecademy.com, Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Codecademy.com, Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) -- yes, the whole thing!
 - Take and Learn [JavaScript Exercises](https://repl.it/community/classrooms/20690)
 
 ### HTML and CSS Tutorials
 
 Complete these tutorials prior to the first day of class.
 
-- [Codecademy.com, Intro to HTML](https://www.codecademy.com/learn/learn-html)
+- [Codecademy.com, Learn HTML](https://www.codecademy.com/learn/learn-html) -- yes, the thing, not just the section called "Introduction to HTML")
 
-- [Codecademy.com, Intro to CSS](https://www.codecademy.com/learn/learn-css)
+- [Codecademy.com, Learn CSS](https://www.codecademy.com/learn/learn-css) -- yes, the whole thing!
 
 ---
 
