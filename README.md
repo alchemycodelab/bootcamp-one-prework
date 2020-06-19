@@ -129,7 +129,7 @@ Using the terminal may feel a little scary at first, but stick with it and give 
 Complete this javascript tutorial prior to the first day of class:
 
 - [Codecademy.com, Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) -- yes, the whole thing!  All sections in this tutorial. But don't worry about the PRO subscription stuff, which may or may not be thrown in for free right now, depending on when you signed up.
-- Take and Learn [JavaScript Exercises](https://repl.it/community/classrooms/20690)
+- Take and Learn [JavaScript Exercises](https://repl.it/community/classrooms/20690) -- For this, just pick and complete 5-10 functions challenges that look interesting to you
 
 ### HTML and CSS Tutorials
 
