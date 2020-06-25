@@ -36,6 +36,19 @@ work gives enrolled students a clear, step-by-step guide for what they need to a
 #### The estimated time to complete all of the prep work outlined below (_not including breaks_) is **from 23 hours to 78 hours**.
 
 * If you spend only an approximate 23 hours on the prep work, it would take you about **4 hours a day for 5 days**.
+=======
+1. Install programs and set up your computer
+   1. Setup guide for Your OS _(multiple downloads are involved; 1-3 hours depending on your network speed)_
+   1. Email your instructors & introduce yourself
+   1. Introduce yourself on Slack _(15-30 minutes)_
+1. Online Tutorials
+   1. Terminal tutorial and practice _(2-3 hours)_
+   1. Git tutorial _(1-2 hours)_
+   1. Codecademy Intro to JavaScript tutorial _(15-40 hours)_ 
+   1. Codecademy HTML+CSS tutorial _(15-25 hours)_
+1. Purchase textbooks and read preliminary readings
+   1. Purchase required textbooks _(15-30 minutes)_
+   1. Complete the textbook readings for Day 1 of class _(2-3 hours)_
 
 * If you spend approximately 45 hours on the prep work, it would take you about **6 hours a day for 7 days**.
 
@@ -135,6 +148,9 @@ Complete the following readings: | Do not strive to methodically read and retain
 # More:
 
 ## Terminal
+=======
+- [Codecademy.com, Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) -- yes, the whole thing!  All sections in this tutorial. But don't worry about the PRO subscription stuff, which may or may not be thrown in for free right now, depending on when you signed up.
+- Take and Learn [JavaScript Exercises](https://repl.it/community/classrooms/20690) -- For this, just pick and complete 5-10 functions challenges that look interesting to you
 
 More
 ---|
@@ -150,6 +166,10 @@ Sections 1-3: **[Learn Git Branching](https://learngitbranching.js.org)** | `Int
 Complete: **[Git Tutorial, A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)** |
 
 ## JavaScript
+=======
+- [Codecademy.com, Learn HTML](https://www.codecademy.com/learn/learn-html) -- yes, the thing, not just the section called "Introduction to HTML"). All sections within this tutorial, from "Introduction to HTML" through and including "Unordered Lists" or what ever the last one is. But don't worry about the PRO subscription stuff, which may or may not be thrown in for free right now, depending on when you signed up.
+
+- [Codecademy.com, Learn CSS](https://www.codecademy.com/learn/learn-css) -- yes, the whole thing! All sections in this tutorial. But don't worry about the PRO subscription stuff, which may or may not be thrown in for free right now, depending on when you signed up.
 
 More
 ---|
