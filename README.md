@@ -132,7 +132,7 @@ Complete the following readings: | Do not strive to methodically read and retain
 (JavaScript textbook) Chapter 1 | **"The ABC of Programming"** -- Be sure to **complete the associated discussion assignment** in our Learning Management System | 20-30 minutes |
 
 ---
-# More:
+# More (OPTIONAL):
 
 ## Terminal
 
